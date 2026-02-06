@@ -1,3 +1,5 @@
+This is the initial input document, and main basis for this all.
+
 # Laegna Machine Learning Basics
 
 This is the introduction to LaegnaAI2MLBasics.
