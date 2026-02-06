@@ -476,6 +476,18 @@ If we can do it in chunks, partially, not the whole problem: this is better to a
 
 We can normalize, in given form of *octave frequencies*, with floor number being $octave$, yet not imprecise to not contain $frequency$, and frequency being the number after the dot. Frequency, in linear model, is growth: but it's an oscillation if we measure the actual linearities, where each such phase *introduces an impulse*, and instead of adding to accumulation, we count such phases such as work: it's one octave difference of a number, whether it's oscillation or volume which tracks the number, and in frequency theory, the effects occur in parallel or not at all.
 
+This means:
 
+Say you resolve this machine learning model:
+- A = B * 2
+
+While this does not resolve, optimizer, when trying to overcome bias, might resolve interesting patterns.
+
+But within my model or activation function, it's also resolved: A = B means *different unit*, where they resolve into y layer and then x of output, it's central layer. It can resolve on math level of yours
+that you can accept units like this, or convert them to standard units - frequency directly produces an unit. Frequency and octave are kind of generalization levels of the same parameter: we have frequency smooth flow
+through octaves, and octaves are split to comma point numbers through their appearance asymmetries: order of linear and exponent factors is not linear, and comma point of octave is frequency.
+- In your system, you might still want to inverse frequency and make it exponent level down to measure it in exact standard math frequency number of events of approximation or going-further, where we
+  see them in coordinate system or linearity classified by having classes of approximation, an linear system of standard achievement as straight line: but I do not suggest inverse frequencies to
+  be used in this context as a general rule, but only as a modifier.
 
 End of story: the rest will be in the files. This is parallel to LaegnaAIBasics repo and it's parallel intent for *perceptron*, with available *motivation in regards*.
