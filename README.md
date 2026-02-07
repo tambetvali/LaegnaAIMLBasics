@@ -1,15 +1,3 @@
-Notice that in CoPilot's parts, he is sometimes changing my meanings; for example, I compare ML with _male AI_, and DL with _female AI_, but in one part he did put ML into middle, and compared DL with automata in such way - while
-this is distinct from my text, this is very similar to how I shift language sometimes, to introduce broader scopes: after reading several times carefully, I did not want to change this and dissolute it's general idea. Second, CP
-is connecting certain ideas rather with my Laegna "Framework": I agree with connections, I did not want to bring my own scope in: but I did not alter, because this actually contrasts my correlations, and "official" views, which
-define ML sometimes on more rigid basis as general solution of only a few formulaes, like Linear Regression: while I want to bring in the broad view, I think it's fine if it remains on textbook-level by this criteria, that
-where main ideas *slightly differ* from mine, CoPilot contrasts them: my framework for Deep Learning is indeed to give shapes of expressions to an optimizer, broad view usually resolves n forms of expressions where the learning
-has balanced ground, *but* it introduces examples of other specific forms: while this seems "metaoperational" in common use, where each such new algorithm is brought in as kind of extension, in my text it's like using a built-
-in feature: a common operation *inside* the framework. For several things, what is seen as progress of DL science, but follows quite clear path - in my text, such developments are rather developments in your system; like, you
-are free to bring in any form of formulae. This distinction is not otherwise important, but: if you own formulaes are not balanced, uniform-symmetric mathematical expressions of general fact, sometimes it's more questionable
-whether and how deeply the machine is "learning" when it's solving your domain formulae; when it's solving general math formulaes, such as polynominal with n unknowns, indeed the result is quite free to "learn" in general scope.
-Still, I do not say if you are calculating your shop prices, by *not general formulae*, you are not being intelligent: indeed, you are not learning about your formulae, but you are learning about your shopping list. Underneath,
-there is optimizer which is indeed learning this strict form, so you cannot say it's *not* machine learning - optimizer does balance these few variables you have in your equation.
-
 # Introduction: Generalized Machine Learning, Units, Activations, and Human‑Like Cooperation
 
 Machine Learning is not limited to classification, regression, or neural networks.  
@@ -269,6 +257,19 @@ This mirrors how human teams succeed:
 creative and structured minds working together, not competing.
 
 # LaegnaAIMLBasics  
+
+***Notice*** that **in CoPilot's parts, he is sometimes changing my meanings**; for example, I compare ML with _male AI_, and DL with _female AI_, but in one part he did put ML into middle, and compared DL with automata in such way - while
+this is distinct from my text, *this is very similar to how I shift language sometimes*, to introduce broader scopes: ***after reading several times carefully, I did not want to change this and dissolute it's general idea***. Second, CP
+is *connecting certain ideas* rather with my Laegna "Framework" than general scope: I agree with connections, I did not want to bring my own scope in: but I did not alter, because this actually contrasts my correlations, and "official" views, which
+define ML sometimes on more rigid basis as general solution of only a few formulaes, like Linear Regression: while I want to bring in the broad view, I think it's fine if it remains on textbook-level by this criteria, that
+where main ideas *slightly differ* from mine, CoPilot contrasts them: my framework for Deep Learning is indeed to give shapes of expressions to an optimizer, broad view usually resolves n forms of expressions where the learning
+has balanced ground, *but* it introduces examples of other specific forms: while this seems "metaoperational" in common use, where each such new algorithm is brought in as kind of extension, in my text it's like using a built-
+in feature: a common operation *inside* the framework. For several things, what is seen as progress of DL science, but follows quite clear path - in my text, such developments are rather developments in your system; like, you
+are free to bring in any form of formulae. This distinction is not otherwise important, but: if you own formulaes are not balanced, uniform-symmetric mathematical expressions of general fact, sometimes it's more questionable
+whether and how deeply the machine is "learning" when it's solving your domain formulae; when it's solving general math formulaes, such as polynominal with n unknowns, indeed the result is quite free to "learn" in general scope.
+Still, I do not say if you are calculating your shop prices, by *not general formulae*, you are not being intelligent: indeed, you are not learning about your formulae, but you are learning about your shopping list. Underneath,
+there is optimizer which is indeed learning this strict form, so you cannot say it's *not* machine learning - optimizer does balance these few variables you have in your equation.
+
 ### Introduction
 
 This repository introduces the **base paradigm** of the Laegna approach to Machine Learning.  
